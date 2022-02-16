@@ -1,0 +1,1 @@
+This project is the first project in Python I did on my on, where I created a simple calculator.
